@@ -1,0 +1,8 @@
+Flask==2.3.3
+Flask-CORS==4.0.0
+ollama==0.1.7
+Pillow==10.0.0
+pytesseract==0.3.10
+fuzzywuzzy==0.18.0
+python-levenshtein==0.25.1
+requests==2.31.0

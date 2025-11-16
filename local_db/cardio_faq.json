@@ -1,0 +1,34 @@
+{
+  "chest pain": {
+    "answer": "Chest pain can stem from various causes, including cardiac, muscular, or gastrointestinal issues. Cardiac causes may include angina (reduced blood flow to the heart) or a heart attack, often presenting as a heavy, squeezing pain radiating to the arm, jaw, or back. Non-cardiac causes include muscle strain, acid reflux, or anxiety. Immediate medical attention is critical if the pain is severe, persistent, or accompanied by shortness of breath, sweating, or nausea.",
+    "additional_info": "Risk factors for cardiac-related chest pain include high blood pressure, smoking, and family history of heart disease. Diagnostic tests like an ECG or stress test may be recommended."
+  },
+  "high blood pressure": {
+    "answer": "High blood pressure (hypertension) is a condition where blood pressure exceeds 130/80 mmHg consistently, increasing the risk of heart disease, stroke, and kidney damage. Management includes lifestyle changes such as regular aerobic exercise (e.g., 30 minutes most days), a low-sodium diet (DASH diet), stress reduction, and limiting alcohol. Medications like ACE inhibitors or diuretics may be prescribed by a doctor.",
+    "additional_info": "Monitor blood pressure regularly at home or with a healthcare provider. Untreated hypertension can lead to heart failure or aneurysms."
+  },
+  "palpitations": {
+    "answer": "Heart palpitations, a sensation of rapid, fluttering, or pounding heartbeats, may be benign (caused by stress, caffeine, or dehydration) or indicate an arrhythmia like atrial fibrillation. Persistent or frequent palpitations, especially with dizziness or fainting, warrant medical evaluation. Keeping a log of episodes (frequency, duration, triggers) can aid diagnosis.",
+    "additional_info": "Diagnostic tools include Holter monitors or event recorders. Avoiding triggers like excessive caffeine or nicotine may help reduce occurrences."
+  },
+  "shortness of breath": {
+    "answer": "Shortness of breath (dyspnea) can signal heart conditions (e.g., heart failure, coronary artery disease) or lung issues (e.g., asthma, COPD). It may present as difficulty breathing during activity or at rest. Immediate medical attention is needed if it occurs suddenly or with chest pain, fainting, or swelling in the legs.",
+    "additional_info": "Tests like chest X-rays, echocardiograms, or pulmonary function tests may be used to identify the cause. Lifestyle factors like obesity or smoking can exacerbate symptoms."
+  },
+  "heart attack symptoms": {
+    "answer": "A heart attack (myocardial infarction) occurs when blood flow to the heart is blocked, often by a clot. Symptoms include chest pain or discomfort (often described as pressure or squeezing), pain radiating to the arms, jaw, neck, or back, shortness of breath, sweating, nausea, or lightheadedness. Women may experience atypical symptoms like fatigue or abdominal pain. Call emergency services immediately if a heart attack is suspected.",
+    "additional_info": "Time is critical; treatments like angioplasty or clot-busting drugs are most effective within hours. Risk factors include high cholesterol, diabetes, and smoking."
+  },
+  "cholesterol management": {
+    "answer": "High cholesterol contributes to plaque buildup in arteries, increasing heart disease risk. Management includes a diet low in saturated and trans fats, rich in fiber (e.g., oats, fruits, vegetables), regular exercise, and maintaining a healthy weight. Statins or other medications may be prescribed if lifestyle changes are insufficient.",
+    "additional_info": "Regular lipid panel tests monitor LDL (bad cholesterol), HDL (good cholesterol), and triglycerides. Aim for LDL below 100 mg/dL for high-risk individuals."
+  },
+  "atrial fibrillation": {
+    "answer": "Atrial fibrillation (AFib) is an irregular, often rapid heart rhythm that can increase stroke risk. Symptoms include palpitations, fatigue, or shortness of breath, though some cases are asymptomatic. Treatment may involve medications (e.g., beta-blockers, anticoagulants) or procedures like cardioversion or ablation.",
+    "additional_info": "Risk factors include hypertension, thyroid disease, and alcohol use. Regular monitoring and stroke prevention (e.g., blood thinners) are critical."
+  },
+  "heart-healthy diet": {
+    "answer": "A heart-healthy diet emphasizes fruits, vegetables, whole grains, lean proteins (e.g., fish, poultry), and healthy fats (e.g., olive oil, avocados). Limit sodium (under 2,300 mg/day), added sugars, and processed foods. The Mediterranean or DASH diet is highly recommended for heart health.",
+    "additional_info": "Incorporate omega-3-rich foods like salmon or walnuts. Avoid trans fats found in fried foods and certain packaged snacks."
+  }
+}

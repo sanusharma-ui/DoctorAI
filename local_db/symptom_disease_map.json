@@ -1,0 +1,6 @@
+{
+  "chest pain": ["angina", "heart attack", "acid reflux"],
+  "shortness of breath": ["heart failure", "pulmonary edema", "anemia"],
+  "fatigue": ["heart disease", "depression", "thyroid disorder"],
+  "swelling": ["fluid retention", "heart failure", "liver disease"]
+}

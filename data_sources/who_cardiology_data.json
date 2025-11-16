@@ -1,0 +1,188 @@
+{
+  "heart attack": {
+    "title": "Heart Attack (Myocardial Infarction)",
+    "summary": "A heart attack occurs when blood flow to a portion of the heart is blocked, typically by a blood clot or plaque rupture in a coronary artery, leading to oxygen deprivation and heart muscle damage. Prompt treatment is critical to minimize damage and improve survival rates.",
+    "symptoms": [
+      "Chest pain or discomfort (pressure, squeezing, or fullness, often radiating to the left arm, jaw, neck, or back)",
+      "Shortness of breath, with or without chest pain",
+      "Cold sweats, nausea, or vomiting",
+      "Lightheadedness, dizziness, or fainting",
+      "Unusual fatigue, especially in women"
+    ],
+    "prevention": [
+      "Quit smoking and avoid secondhand smoke exposure",
+      "Follow a heart-healthy diet low in saturated fats, trans fats, and cholesterol (e.g., Mediterranean diet)",
+      "Engage in at least 150 minutes of moderate aerobic exercise weekly (e.g., brisk walking, cycling)",
+      "Manage risk factors like hypertension, diabetes, and high cholesterol through regular monitoring",
+      "Maintain a healthy weight (BMI 18.5–24.9)"
+    ],
+    "treatment": [
+      "Call emergency services immediately (within minutes of symptom onset)",
+      "Chew aspirin (if advised by a doctor) to reduce clotting",
+      "Emergency procedures like percutaneous coronary intervention (angioplasty) or coronary artery bypass grafting (CABG)",
+      "Medications such as beta-blockers, ACE inhibitors, or statins for recovery",
+      "Cardiac rehabilitation to restore heart health"
+    ],
+    "who_reference": "https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)"
+  },
+  "hypertension": {
+    "title": "Hypertension (High Blood Pressure)",
+    "summary": "Hypertension is a condition where blood pressure consistently exceeds 130/80 mmHg, straining the heart and blood vessels. Known as the 'silent killer,' it often lacks symptoms but significantly increases risks of heart disease, stroke, and kidney failure.",
+    "symptoms": [
+      "Often asymptomatic, detected only through blood pressure checks",
+      "Severe cases may cause headaches, blurred vision, dizziness, or nosebleeds",
+      "Chest pain or shortness of breath in advanced stages"
+    ],
+    "prevention": [
+      "Limit sodium intake to less than 2,300 mg/day (ideally 1,500 mg for high-risk individuals)",
+      "Consume a diet rich in fruits, vegetables, whole grains, and low-fat dairy (e.g., DASH diet)",
+      "Perform regular physical activity (30 minutes most days of the week)",
+      "Reduce stress through mindfulness, meditation, or yoga",
+      "Limit alcohol to 1 drink/day for women, 2 for men, and quit smoking"
+    ],
+    "treatment": [
+      "Lifestyle modifications (diet, exercise, stress management)",
+      "Medications like ACE inhibitors, diuretics, beta-blockers, or calcium channel blockers as prescribed",
+      "Regular blood pressure monitoring at home or with a healthcare provider"
+    ],
+    "who_reference": "https://www.who.int/news-room/fact-sheets/detail/hypertension"
+  },
+  "cholesterol": {
+    "title": "High Cholesterol (Hyperlipidemia)",
+    "summary": "High cholesterol occurs when excessive low-density lipoprotein (LDL) or triglycerides accumulate in the blood, forming plaque in arteries (atherosclerosis), which increases the risk of heart attack and stroke.",
+    "symptoms": [
+      "Typically asymptomatic, detected via blood tests (lipid panel)",
+      "Visible signs like xanthomas (fatty deposits under the skin) in rare cases",
+      "Chest pain or other heart disease symptoms if arteries are significantly blocked"
+    ],
+    "prevention": [
+      "Reduce intake of saturated fats (e.g., red meat, full-fat dairy) and eliminate trans fats (e.g., fried foods, packaged snacks)",
+      "Increase fiber-rich foods (e.g., oats, beans, fruits) and healthy fats (e.g., avocados, olive oil)",
+      "Engage in regular aerobic exercise (e.g., 150 minutes/week of moderate activity)",
+      "Maintain a healthy weight and avoid smoking"
+    ],
+    "treatment": [
+      "Lifestyle changes focusing on diet and exercise",
+      "Medications like statins, fibrates, or PCSK9 inhibitors as prescribed",
+      "Regular lipid profile tests to monitor LDL, HDL, and triglycerides"
+    ],
+    "who_reference": "https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)"
+  },
+  "stroke": {
+    "title": "Stroke (Cerebrovascular Accident)",
+    "summary": "A stroke occurs when blood flow to the brain is interrupted (ischemic stroke) or a blood vessel bursts (hemorrhagic stroke), causing brain cell damage. Rapid treatment within the 'golden hour' is critical to minimize brain damage.",
+    "symptoms": [
+      "Sudden numbness or weakness in the face, arm, or leg (often one-sided)",
+      "Sudden confusion, trouble speaking, or understanding speech",
+      "Sudden vision loss in one or both eyes",
+      "Sudden difficulty walking, loss of balance, or coordination",
+      "Sudden severe headache with no known cause"
+    ],
+    "prevention": [
+      "Control blood pressure (target <130/80 mmHg) and diabetes (HbA1c <7%)",
+      "Quit smoking and limit alcohol consumption",
+      "Engage in regular physical activity (e.g., 30 minutes of brisk walking daily)",
+      "Follow a heart-healthy diet low in sodium and rich in fruits and vegetables",
+      "Manage atrial fibrillation with anticoagulants if prescribed"
+    ],
+    "treatment": [
+      "Immediate emergency care (e.g., clot-busting drugs like tPA for ischemic stroke within 4.5 hours)",
+      "Surgical interventions (e.g., thrombectomy, aneurysm clipping) for severe cases",
+      "Rehabilitation including physical, occupational, and speech therapy"
+    ],
+    "who_reference": "https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death"
+  },
+  "heart failure": {
+    "title": "Heart Failure",
+    "summary": "Heart failure is a chronic condition where the heart cannot pump blood effectively to meet the body's needs, often due to weakened heart muscles from prior heart attack, hypertension, or cardiomyopathy.",
+    "symptoms": [
+      "Shortness of breath during activity or when lying down (orthopnea)",
+      "Swelling (edema) in legs, ankles, feet, or abdomen",
+      "Persistent fatigue or weakness",
+      "Rapid or irregular heartbeat",
+      "Reduced exercise tolerance"
+    ],
+    "prevention": [
+      "Manage underlying conditions like hypertension, diabetes, and coronary artery disease",
+      "Adopt a low-sodium diet (<2,000 mg/day) to reduce fluid retention",
+      "Engage in moderate exercise as advised by a doctor",
+      "Avoid smoking, excessive alcohol, and illicit drugs"
+    ],
+    "treatment": [
+      "Medications like diuretics, ACE inhibitors, beta-blockers, or aldosterone antagonists",
+      "Device therapy (e.g., implantable cardioverter-defibrillator or pacemaker)",
+      "Lifestyle changes and careful monitoring of fluid intake and weight",
+      "Heart transplant in severe cases"
+    ],
+    "who_reference": "https://www.who.int/health-topics/heart-failure"
+  },
+  "arrhythmia": {
+    "title": "Heart Arrhythmia",
+    "summary": "Arrhythmias are abnormal heart rhythms (too fast, too slow, or irregular) caused by electrical system malfunctions. Common types include atrial fibrillation, bradycardia, and ventricular tachycardia.",
+    "symptoms": [
+      "Palpitations (fluttering or pounding in the chest)",
+      "Dizziness, lightheadedness, or fainting (syncope)",
+      "Shortness of breath or chest discomfort",
+      "Fatigue or weakness",
+      "Asymptomatic in some cases"
+    ],
+    "prevention": [
+      "Avoid triggers like excessive caffeine, alcohol, or nicotine",
+      "Manage stress with relaxation techniques (e.g., yoga, meditation)",
+      "Control underlying conditions like hypertension or thyroid disease",
+      "Regular heart checkups with ECG monitoring"
+    ],
+    "treatment": [
+      "Medications like antiarrhythmics, beta-blockers, or anticoagulants (for stroke prevention in atrial fibrillation)",
+      "Procedures like catheter ablation or cardioversion",
+      "Implantation of devices such as pacemakers or defibrillators"
+    ],
+    "who_reference": "https://www.who.int/health-topics/cardiovascular-diseases"
+  },
+  "coronary artery disease": {
+    "title": "Coronary Artery Disease (CAD)",
+    "summary": "Coronary artery disease develops when the coronary arteries become narrowed or blocked by plaque, reducing blood flow to the heart and increasing the risk of angina or heart attack.",
+    "symptoms": [
+      "Chest pain or discomfort (angina), often triggered by exertion or stress",
+      "Shortness of breath",
+      "Fatigue or weakness during physical activity",
+      "Pain radiating to arms, shoulders, or jaw"
+    ],
+    "prevention": [
+      "Adopt a heart-healthy diet low in saturated fats and high in fiber",
+      "Exercise regularly (150 minutes/week of moderate aerobic activity)",
+      "Quit smoking and limit alcohol intake",
+      "Manage cholesterol, blood pressure, and diabetes"
+    ],
+    "treatment": [
+      "Medications like statins, antiplatelets (e.g., aspirin), or beta-blockers",
+      "Procedures like angioplasty with stent placement or coronary artery bypass grafting",
+      "Lifestyle changes and cardiac rehabilitation"
+    ],
+    "who_reference": "https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)"
+  },
+  "cardiomyopathy": {
+    "title": "Cardiomyopathy",
+    "summary": "Cardiomyopathy refers to diseases of the heart muscle that impair its ability to pump blood effectively, potentially leading to heart failure or arrhythmias. Types include dilated, hypertrophic, and restrictive cardiomyopathy.",
+    "symptoms": [
+      "Shortness of breath, especially during exertion",
+      "Fatigue and weakness",
+      "Swelling in legs, ankles, or abdomen",
+      "Irregular heartbeats or palpitations",
+      "Dizziness or fainting"
+    ],
+    "prevention": [
+      "Manage underlying conditions like hypertension or diabetes",
+      "Avoid excessive alcohol and illicit drug use",
+      "Regular medical checkups to monitor heart function",
+      "Genetic screening if family history exists"
+    ],
+    "treatment": [
+      "Medications like beta-blockers, ACE inhibitors, or diuretics",
+      "Implantable devices like defibrillators for high-risk patients",
+      "Surgical options like septal myectomy for hypertrophic cardiomyopathy",
+      "Heart transplant in severe cases"
+    ],
+    "who_reference": "https://www.who.int/health-topics/cardiovascular-diseases"
+  }
+}

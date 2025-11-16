@@ -1,0 +1,34 @@
+  {
+    "diet": {
+      "tip": "Adopt a heart-healthy diet rich in vegetables, fruits, whole grains, lean proteins, and healthy fats. Limit saturated fats, trans fats, sodium (under 2,300 mg/day), and added sugars. Follow the Mediterranean or DASH diet for optimal cardiovascular benefits.",
+      "examples": "Incorporate leafy greens (spinach, kale), berries, whole grains (quinoa, oats), fatty fish (salmon, mackerel), and nuts (almonds, walnuts). Avoid processed foods like chips, sodas, and fast food."
+    },
+    "exercise": {
+      "tip": "Engage in at least 150 minutes of moderate-intensity aerobic exercise per week, such as brisk walking, cycling, or swimming, spread over 5 days. Include strength training (e.g., bodyweight exercises) twice a week to improve heart and muscle health.",
+      "examples": "Try 30-minute sessions of walking at a pace where you can talk but not sing, cycling at 10-12 mph, or swimming laps. Strength exercises like squats or push-ups can be done at home."
+    },
+    "sleep": {
+      "tip": "Aim for 7-9 hours of quality sleep per night to support cardiovascular health. Poor sleep can increase blood pressure and inflammation, raising heart disease risk. Maintain a consistent sleep schedule and create a restful environment.",
+      "examples": "Establish a bedtime routine (e.g., avoid screens 1 hour before bed), keep your bedroom dark and cool (60-67°F), and limit caffeine intake after 2 PM."
+    },
+    "stress": {
+      "tip": "Practice stress-reduction techniques like mindfulness meditation, deep breathing, or yoga to lower cortisol levels and blood pressure, reducing strain on the heart. Regular relaxation can improve overall heart health.",
+      "examples": "Try 10 minutes of guided meditation daily (apps like Headspace), practice diaphragmatic breathing (4-7-8 technique), or join a weekly yoga class focused on gentle poses."
+    },
+    "smoking cessation": {
+      "tip": "Quit smoking and avoid secondhand smoke to significantly reduce the risk of heart disease and stroke. Smoking damages blood vessels and lowers HDL (good) cholesterol. Seek support through counseling or cessation programs.",
+      "examples": "Use nicotine replacement therapies (patches, gum), join a support group, or consult a healthcare provider for medications like bupropion or varenicline."
+    },
+    "weight management": {
+      "tip": "Maintain a healthy weight to reduce strain on the heart, lower blood pressure, and decrease cholesterol levels. Aim for a Body Mass Index (BMI) of 18.5–24.9 or consult a doctor for personalized goals.",
+      "examples": "Combine a balanced diet with regular exercise, monitor portion sizes, and track progress with a food diary or app. Small, sustainable changes like reducing sugary drinks can help."
+    },
+    "alcohol moderation": {
+      "tip": "Limit alcohol to moderate levels to protect heart health—up to one drink per day for women and two for men. Excessive alcohol can raise blood pressure and triglycerides, increasing heart disease risk.",
+      "examples": "Choose a 5 oz glass of red wine (contains heart-healthy antioxidants) or avoid binge drinking (more than 4-5 drinks in one sitting). Opt for non-alcoholic alternatives like sparkling water."
+    },
+    "regular checkups": {
+      "tip": "Schedule regular medical checkups to monitor blood pressure, cholesterol, and blood sugar levels. Early detection of risk factors can prevent heart disease progression.",
+      "examples": "Visit a cardiologist annually if at risk (family history, diabetes), use a home blood pressure monitor, or get a lipid panel test every 4-6 years if healthy (more often if high-risk)."
+    }
+  }

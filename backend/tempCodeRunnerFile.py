@@ -1,0 +1,1 @@
+ # faq_data = load_json(CARDIO_FAQ)
