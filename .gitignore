@@ -1,0 +1,61 @@
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# -------------------------
+# Logs & Temp
+# -------------------------
+*.log
+*.tmp
+*.cache
+*.pickle
+*.bak
+
+instance/
+.DS_Store
+
+# -------------------------
+# AI Cache + Local DB (Sensitive)
+# -------------------------
+
+uploads/
+uploads/*
+
+# -------------------------
+# OCR / Temp Images
+# -------------------------
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.pdf
+
+# -------------------------
+# IDE settings
+# -------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# -------------------------
+# OS Garbage Files
+# -------------------------
+Thumbs.db
+desktop.ini
+
+
+# -------------------------
+# Ngrok / Secrets
+# -------------------------
+*.ngrok
+ngrok.log
