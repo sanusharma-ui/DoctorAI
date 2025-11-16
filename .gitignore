@@ -59,3 +59,5 @@ desktop.ini
 # -------------------------
 *.ngrok
 ngrok.log
+local_db/session_memory.json
+local_db/ai_cache.json
